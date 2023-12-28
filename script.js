@@ -1,2 +1,7 @@
-let Ghet = 1;
-console.log(Ghet);
+//variable practice
+let admin;
+let name;
+name = "John";
+name = admin;
+
+alert(admin);
